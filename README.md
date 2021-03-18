@@ -1,1 +1,1 @@
-Qertas
+Qertas is a simple Weblog.
